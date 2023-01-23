@@ -9,6 +9,7 @@ public class SpringTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringTestApplication.class, args);
         System.out.println("Just test");
+        System.out.println("pull from github");
     }
 
 }
