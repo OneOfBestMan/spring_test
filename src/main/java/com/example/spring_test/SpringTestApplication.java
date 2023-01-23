@@ -10,6 +10,7 @@ public class SpringTestApplication {
         SpringApplication.run(SpringTestApplication.class, args);
         System.out.println("Just test");
         System.out.println("pull from github");
+        System.out.println("push to github  ssh");
     }
 
 }
