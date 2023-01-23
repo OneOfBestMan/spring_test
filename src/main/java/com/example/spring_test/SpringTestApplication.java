@@ -11,6 +11,7 @@ public class SpringTestApplication {
         System.out.println("Just test");
         System.out.println("pull from github");
         System.out.println("push to github  ssh");
+        System.out.println("pull from github 2");
     }
 
 }
